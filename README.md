@@ -1,2 +1,2 @@
-# JavaPractice
-JavaPractice
+# Java Codes
+Java Codes
